@@ -19,7 +19,7 @@ public class Applitest {
 		
 		Eyes eyes = new Eyes();
 		
-		eyes.setApiKey("Ra3BljCeHPA108Rwcvig5iYOvuC107zgjNKNat9AzxAwKnA110");
+		eyes.setApiKey("SET YOUR API KEY");
 		
 		eyes.open(driver, "Applitools Demo", "Hello World Test");
 		
